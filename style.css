@@ -1,0 +1,19 @@
+.all{
+    background-color:black;
+}
+
+*{
+    color: cornsilk;
+}
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.group{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
